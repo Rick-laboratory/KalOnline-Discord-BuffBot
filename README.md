@@ -2,10 +2,9 @@
 Lets your friends use your Buffparty, they will get buffs by writing Buff to a Discord channel you set up for it
 
 # BuffBot: Your Ultimate Buffing Companion for KalOnline
-Will be updated soon and show an actual buffparty in action! WIP
-![Watch BuffBot in Action!](https://img.youtube.com/vi/5-379Ov6yjU/0.jpg)
+![Watch BuffBot in Action!](https://img.youtube.com/vi/hbBnD7SnpNg/0.jpg)
 
-[Watch the Demo Video](https://www.youtube.com/watch?v=5-379Ov6yjU)
+[Watch the Demo Video](https://www.youtube.com/watch?v=hbBnD7SnpNg)
 
 ## Table of Contents
 
