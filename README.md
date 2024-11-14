@@ -113,7 +113,7 @@ Follow these detailed steps to set up and use BuffBot effectively:
 
 ## Watch BuffBot in Action!
 
-[![Watch BuffBot in Action!](https://img.youtube.com/vi/5-379Ov6yjU/0.jpg)](https://www.youtube.com/watch?v=5-379Ov6yjU)
+[![Watch BuffBot in Action!](https://img.youtube.com/vi/hbBnD7SnpNg/0.jpg)](https://www.youtube.com/watch?v=hbBnD7SnpNg)
 
 *Click the image above to watch the demo video.*
 
